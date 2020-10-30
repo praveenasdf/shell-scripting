@@ -2,4 +2,4 @@
 
 #This is first line to see pull and push working from Git
 
-echo "Praveen Output";
+printf "Praveen Output";
